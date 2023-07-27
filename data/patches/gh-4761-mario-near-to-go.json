@@ -1,0 +1,32 @@
+{
+	"id": -1,
+	"name": "Mario near to go",
+	"description": "Hi, It's-a me, Mario! I go to the new galaxie, HERE WE GO\n\n(leak du prochain mario galaxy ??)",
+	"links": {},
+	"path": {
+		"198-256": [
+			[
+				-446,
+				410
+			],
+			[
+				-456,
+				410
+			],
+			[
+				-456,
+				382
+			],
+			[
+				-446,
+				382
+			]
+		]
+	},
+	"center": {
+		"198-256": [
+			-451,
+			396
+		]
+	}
+}
